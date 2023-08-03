@@ -67,7 +67,7 @@ In numeric terms, the business value can be evaluated as follows:
    
 2. *Improved Customer Satisfaction: Generally faster loan processing might increase the customer base. If Homecredit could attract even 1% more customers due to improved satisfaction, for a company processing 10,000 loans annually, this could equate to 100 additional loans. If the company earns a 1% origination fee on each loan of $200,000, this equates to 100$200,000*0.01 = $200,000 per year.
 
-These numbers are purely illustrative and the actual savings will depend on the specifics of loan portfolio, the accuracy of the model, the cost of false negatives and positives, etc. 
+The actual savings will depend on the specifics of loan portfolio, the accuracy of the model, the cost of false negatives and positives, etc. Also, a 67% accuracy rate means that 33 out of every 100 predictions could be incorrect, which could lead to significant costs in terms of false negatives and positives. The company needs to take this into consideration when implementing the model. 
 
 
 # Difficulties that your group encountered along the way.
