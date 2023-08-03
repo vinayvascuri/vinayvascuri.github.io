@@ -64,11 +64,11 @@ The business value of the Home Credit Risk Analysis project lies in its ability 
 In numeric terms, the business value can be evaluated as follows:
 
 1. *Default Prevention: Assuming the average mortgage in the portfolio is $200,000 and HomeCredit group grants 1000 loans per year. If historically 2% of loans defaulted and this model could prevent 50% of these, it would save the company 0.02*0.5*1000$200,000 = $2,000,000 per year.
+
+Also, a 67% accuracy rate means that 33 out of every 100 predictions could be incorrect, which could lead to significant costs in terms of false negatives and positives. The company needs to take this into consideration when implementing the model. 
+
+### In this particular Home credit group case, there are 8.07% of likely defaulters and the accuracy of the final model chosen is 67%. So, with our solution, we can assess 5.41% of the defaulters accurately.
    
-2. *Improved Customer Satisfaction: Generally faster loan processing might increase the customer base. If Homecredit could attract even 1% more customers due to improved satisfaction, for a company processing 10,000 loans annually, this could equate to 100 additional loans. If the company earns a 1% origination fee on each loan of $200,000, this equates to 100$200,000*0.01 = $200,000 per year.
-
-The actual savings will depend on the specifics of loan portfolio, the accuracy of the model, the cost of false negatives and positives, etc. Also, a 67% accuracy rate means that 33 out of every 100 predictions could be incorrect, which could lead to significant costs in terms of false negatives and positives. The company needs to take this into consideration when implementing the model. 
-
 
 # Difficulties that your group encountered along the way.
 
